@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@sage-enviro-tech/website-code",
   "version": "1.0.0",
   "description": "Developer starter template for Finsweet projects.",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://www.finsweet.com/"
+    "name": "Josiah Duenes - Gamma Design",
+    "url": "https://gammadesign.co"
   },
   "repository": {
     "type": "git",
